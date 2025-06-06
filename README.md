@@ -1,7 +1,7 @@
 # Hi, I'm Kavan! 👋
 
 # 💫 About Me:
-I’m currently learning Python and building projects step-by-step through a 60-day course.  <br>I love coding, cars (huge F1 fan!), Star Wars, and all things dark and minimalistic.  <br>Focused on growing my skills, contributing to open source, and preparing for Google Summer of Code.
+I’m currently learning Python and building projects step-by-step.  <br>I love coding, cars (huge F1 fan!), Star Wars, and all things dark and minimalistic.  <br>Focused on growing my skills, contributing to open source and creating cool projects.
 
 
 # 💻 Tech Stack:
