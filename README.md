@@ -11,11 +11,5 @@ I’m currently learning Python and building projects step-by-step.  <br>I love 
 ![](https://nirzak-streak-stats.vercel.app/?user=Carbon-7&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carbon-7&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Carbon-7&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Carbon-7&icon=5&color=2)](https://visitcount.itsvg.in)
