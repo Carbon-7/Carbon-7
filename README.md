@@ -25,6 +25,5 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carbon-7&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kavan's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carbon-7&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
